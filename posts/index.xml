@@ -6,8 +6,15 @@
     <description>Recent content in Posts on scholarpei-blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Mar 2024 15:50:50 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 23:16:55 +0800</lastBuildDate>
     <atom:link href="https://lihepei.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPT Prompt学习笔记-以Learning Prompt为教程</title>
+      <link>https://lihepei.github.io/posts/gpt-note/</link>
+      <pubDate>Mon, 18 Mar 2024 23:16:55 +0800</pubDate>
+      <guid>https://lihepei.github.io/posts/gpt-note/</guid>
+      <description>To Do and Not to Do 在进行一个空泛的提问时，如推荐一部电影Recommend a movie to me，ai往往会问你喜欢什么类型的电影，这样要聊很多轮，效率很低 所以可以添加下面的语句</description>
+    </item>
     <item>
       <title>[note] MIT-the missing semester —— Vim 学习笔记</title>
       <link>https://lihepei.github.io/posts/vim-note/</link>
