@@ -6,8 +6,15 @@
     <description>Recent content in Posts on scholarpei-blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Mar 2024 23:16:55 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 17:10:17 +0800</lastBuildDate>
     <atom:link href="https://lihepei.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[note]可持久化权值线段树（主席树）算法学习笔记</title>
+      <link>https://lihepei.github.io/posts/segment_tree_note/</link>
+      <pubDate>Sun, 24 Mar 2024 17:10:17 +0800</pubDate>
+      <guid>https://lihepei.github.io/posts/segment_tree_note/</guid>
+      <description>前言 学习参考资料： Bilibili C08 可持久化线段树（主席树） 可持久化线段树 - OI Wiki 介绍 学习主席树，你需要先掌握： 线段树概念、写法 权值线段树 离散化 一道经典的问题是：给定 n个整数构</description>
+    </item>
     <item>
       <title>GPT Prompt学习笔记-以Learning Prompt为教程</title>
       <link>https://lihepei.github.io/posts/gpt-note/</link>
